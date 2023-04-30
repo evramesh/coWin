@@ -1,0 +1,20 @@
+.main {
+  background-color: #161625;
+}
+.icon {
+  height: 40px;
+  width: 40px;
+}
+.head {
+  color: #2cc6c6;
+}
+.sub {
+  display: flex;
+  align-items: center;
+  font-size: 10px;
+  margin: 5px;
+}
+.head1 {
+  color: white;
+  font-size: 20px;
+}

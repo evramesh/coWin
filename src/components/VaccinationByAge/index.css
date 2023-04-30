@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.h {
+  color: grey;
+  font-size: 20px;
+}
+.ten {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
